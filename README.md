@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Xaavier-alt
-- 👀 I’m interested in (Cybersecurity and Ethical hacking)
-- 🌱 I’m currently learning : Data Analysis and Bug bounty hunting
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : send an email (fortunejoeugwu@gmail.com)
+- 👀 I’m interested in: (Cybersecurity and Ethical hacking)
+- 🌱 I’m currently learning: Data Analysis and Bug bounty hunting
+- 💞️ I’m looking to collaborate on: (Bug bounty hunting, Let's hunt bugs together👽)
+- 📫 How to reach me: send an email (fortunejoeugwu@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I don't like tech, lol.
 
